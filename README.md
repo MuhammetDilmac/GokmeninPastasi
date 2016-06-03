@@ -2,4 +2,4 @@
 
 Tarifi sonra eklenecektir.
 
-![alt text](https://github.com/MuhammetDilmac/GokmeninPastasi/output.jpg "Gökmen'in Pastası")
+![alt text](https://raw.githubusercontent.com/MuhammetDilmac/GokmeninPastasi/master/output.jpg "Gökmen'in Pastası")
